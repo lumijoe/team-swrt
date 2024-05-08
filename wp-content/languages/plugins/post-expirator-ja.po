@@ -1,0 +1,333 @@
+# Translation of Plugins - PublishPress Future: Schedule Changes to WordPress Posts - Stable (latest release) in Japanese
+# This file is distributed under the same license as the Plugins - PublishPress Future: Schedule Changes to WordPress Posts - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2023-05-27 02:09:30+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: GlotPress/4.0.0\n"
+"Language: ja_JP\n"
+"Project-Id-Version: Plugins - PublishPress Future: Schedule Changes to WordPress Posts - Stable (latest release)\n"
+
+#: src/Views/menu-display.php:52 src/Views/menu-display.php:70
+msgid "PHP Date Function"
+msgstr "PHP 日付関数"
+
+#: src/Views/tabs.php:48
+msgid "Debug"
+msgstr "デバッグ"
+
+#: src/Views/ad-banner-right-sidebar.php:71
+msgid "View Knowledge Base"
+msgstr "ナレッジベースを表示"
+
+#: src/Views/ad-banner-right-sidebar.php:64
+msgid "Detailed documentation is also available on the plugin website."
+msgstr "詳細なドキュメントは、プラグインの Web サイトでも入手できます。"
+
+#: src/Views/ad-banner-right-sidebar.php:53
+msgid "Request Support"
+msgstr "サポート依頼"
+
+#: src/Views/ad-banner-right-sidebar.php:47
+msgid "If you need help or have a new feature request, let us know."
+msgstr "ヘルプが必要な場合や、新しい機能のリクエストがある場合は、お知らせください。"
+
+#: src/Views/ad-banner-right-sidebar.php:41
+msgid "Need PublishPress Future Support?"
+msgstr "PublishPress Future のサポートが必要ですか?"
+
+#: src/Modules/VersionNotices/Module.php:121
+#: src/Views/ad-banner-right-sidebar.php:33
+msgid "Upgrade to Pro"
+msgstr "プロ版にアップグレード"
+
+#: src/Views/ad-banner-right-sidebar.php:29
+msgid "Fast, professional support"
+msgstr "早くて、プロフェッショナルなサポート"
+
+#: src/Views/menu-diagnostics.php:196
+msgid "Posts and expiration settings"
+msgstr "投稿と有効期限の設定"
+
+#: legacy/classes/Display.class.php:94
+msgid "You do not have permission to configure PublishPress Future."
+msgstr "PublishPress Future を設定する権限がありません。"
+
+#: src/Views/tabs.php:30
+msgid "Display"
+msgstr "表示"
+
+#: src/Views/tabs.php:35
+msgid "Advanced"
+msgstr "高度な設定"
+
+#. Plugin Name of the plugin
+#: post-expirator.php
+#: src/Modules/Expirator/Controllers/BlockEditorController.php:115
+#: src/Modules/Expirator/Controllers/BulkEditController.php:154
+#: src/Modules/Expirator/Controllers/ClassicEditorController.php:146
+#: src/Modules/Expirator/Controllers/ClassicEditorController.php:358
+#: src/Modules/Expirator/Controllers/QuickEditController.php:232
+#: src/Modules/Expirator/Controllers/ScheduledActionsController.php:84
+#: src/Views/tabs.php:59
+msgid "PublishPress Future"
+msgstr "PublishPress Future"
+
+#: legacy/classes/Display.class.php:487
+msgid "Documentation"
+msgstr "ドキュメンテーション"
+
+#: legacy/classes/Display.class.php:495
+msgid "Contact"
+msgstr "お問い合わせ"
+
+#: legacy/classes/Display.class.php:493
+msgid "Contact the PublishPress team"
+msgstr "PublishPress 開発チームに連絡"
+
+#: legacy/classes/Display.class.php:477
+msgid "About PublishPress Future"
+msgstr "PublishPress Future について"
+
+#: legacy/classes/Display.class.php:479
+msgid "About"
+msgstr "概要"
+
+#: src/Views/menu-advanced.php:149
+msgid "Preserve data"
+msgstr "データを保存"
+
+#: src/Views/menu-advanced.php:159
+msgid "Delete data"
+msgstr "データを削除"
+
+#: src/Views/menu-advanced.php:164
+msgid "Toggle between preserving or deleting data after the plugin is deactivated."
+msgstr "プラグインを無効化した後、データを保存するか削除するかを切り替えます。"
+
+#: src/Modules/Expirator/Controllers/BlockEditorController.php:118
+#: src/Modules/Expirator/Controllers/BulkEditController.php:159
+#: src/Modules/Expirator/Controllers/ClassicEditorController.php:363
+#: src/Modules/Expirator/Controllers/QuickEditController.php:237
+msgid "Loading"
+msgstr "ロード中"
+
+#: src/Modules/Expirator/Controllers/ClassicEditorController.php:357
+msgid "Category"
+msgstr "カテゴリー"
+
+#: src/Views/tabs.php:20
+msgid "Post Types"
+msgstr "投稿タイプ"
+
+#: src/Views/menu-advanced.php:27
+msgid "Please do not update anything here unless you know what it entails. For advanced users only."
+msgstr "何が必要かわからない限り、ここでは何も更新しないでください。 上級ユーザーのみ。"
+
+#: src/Views/menu-advanced.php:25
+msgid "Advanced Options"
+msgstr "高度なオプション"
+
+#. translators: %s is the shortcode code wrapped in code tags
+#: src/Views/menu-display.php:156
+msgid "Valid %s attributes:"
+msgstr "有効な %s 属性:"
+
+#: src/Views/menu-display.php:153
+msgid "Shortcode"
+msgstr "ショートコード"
+
+#: src/Views/menu-diagnostics.php:93
+msgid "Debug Logging"
+msgstr "デバッグログ"
+
+#: legacy/deprecated-functions.php:421
+msgid "No taxonomies found"
+msgstr "タクソノミーが見つかりません"
+
+#. Author URI of the plugin
+#: post-expirator.php
+msgid "http://publishpress.com"
+msgstr "http://publishpress.com"
+
+#. Author of the plugin
+#: post-expirator.php
+msgid "PublishPress"
+msgstr "PublishPress"
+
+#. translators: 1: is the blog name, 2: the email subject
+#: src/Modules/Expirator/Models/ExpirablePostModel.php:639
+msgid "[%1$s] %2$s"
+msgstr "[%1$s] %2$s"
+
+#: src/Modules/Expirator/ExpirationActions/UnstickPost.php:75
+msgid "Unstick"
+msgstr "先頭固定を解除"
+
+#: src/Modules/Expirator/ExpirationActions/StickPost.php:75
+msgid "Stick"
+msgstr "先頭に固定表示"
+
+#: src/Modules/Expirator/Models/ExpirationActionsModel.php:150
+msgid "Trash"
+msgstr "ゴミ箱へ移動"
+
+#: src/Views/menu-general.php:127
+msgid "Include Blog Administrators?"
+msgstr "ブログ管理者を含めますか ?"
+
+#: src/Views/menu-general.php:100
+msgid "Enable Email Notification?"
+msgstr "メール通知を有効にしますか ?"
+
+#: src/Views/menu-advanced.php:175 src/Views/menu-display.php:184
+#: src/Views/menu-general.php:175
+msgid "Save Changes"
+msgstr "変更を保存"
+
+#: src/Modules/Expirator/ExpirationActions/DeletePost.php:76
+msgid "Delete"
+msgstr "削除"
+
+#: src/Modules/Expirator/Tables/ScheduledActionsTable.php:629
+#: src/Views/menu-diagnostics.php:190
+msgid "Date"
+msgstr "日付"
+
+#: src/Modules/Expirator/Models/ExpirationActionsModel.php:148
+msgid "Draft"
+msgstr "下書き"
+
+#: src/Modules/Settings/Controllers/Controller.php:207
+msgid "Active"
+msgstr "有効"
+
+#: src/Modules/Settings/Controllers/Controller.php:203
+msgid "Use the values below to set the default actions/values to be used for each for the corresponding post types.  These values can all be overwritten when creating/editing the post/page."
+msgstr "対応する投稿タイプのそれぞれに使用するデフォルトアクションおよび初期値を設定するには、以下の値を使用してください。これらの設定値は記事の作成および更新時にすべて上書きすることができます。"
+
+#: src/Views/menu-diagnostics.php:106
+msgid "Purge Debug Log"
+msgstr "デバッグログを削除する"
+
+#: src/Views/menu-diagnostics.php:193
+msgid "Event"
+msgstr "イベント"
+
+#: src/Modules/Expirator/Models/ExpirationActionsModel.php:149
+msgid "Private"
+msgstr "非公開"
+
+#. Plugin URI of the plugin
+#: post-expirator.php
+msgid "http://wordpress.org/extend/plugins/post-expirator/"
+msgstr "http://ja.wordpress.org/extend/plugins/post-expirator/"
+
+#: legacy/classes/Display.class.php:197
+msgid "Debugging Table Emptied"
+msgstr "デバッグテーブルを空にしました"
+
+#: src/Views/menu-diagnostics.php:120
+msgid "Enable Debugging"
+msgstr "デバッグを有効化"
+
+#: src/Views/menu-diagnostics.php:100
+msgid "Disable Debugging"
+msgstr "デバッグを無効化"
+
+#: src/Views/menu-display.php:139
+msgid "The inline css which will be used to style the footer text."
+msgstr "フッターテキストをデザインを設定するために使われるインラインCSS"
+
+#: src/Views/menu-debug-log.php:12
+msgid "Below is a dump of the debugging table, this should be useful for troubleshooting."
+msgstr "下記は、デバックテーブルのダンプであり、これはトラブルシューティングのために活用されるべきです。"
+
+#: legacy/classes/Display.class.php:189
+msgid "Debugging Enabled"
+msgstr "デバッグを有効化しました。"
+
+#: legacy/classes/Display.class.php:184
+msgid "Debugging Disabled"
+msgstr "デバッグを無効化しました。"
+
+#: src/Views/menu-display.php:111
+msgid "Footer Contents"
+msgstr "フッターコンテンツ"
+
+#: src/Views/menu-display.php:134
+msgid "Footer Style"
+msgstr "フッタースタイル"
+
+#: src/Views/menu-diagnostics.php:178
+msgid "The below table will show all currently scheduled cron events for the plugin with the next run time."
+msgstr "以下の表は次回に実行するために予定されているすべての Cron イベントを表示しています。"
+
+#: src/Modules/Expirator/Controllers/PluginsListController.php:39
+#: src/Modules/Expirator/Controllers/ScheduledActionsController.php:107
+msgid "Settings"
+msgstr "設定"
+
+#: src/Views/menu-diagnostics.php:97 src/Views/menu-display.php:94
+#: src/Views/menu-general.php:108 src/Views/menu-general.php:136
+msgid "Enabled"
+msgstr "有効"
+
+#: src/Views/menu-diagnostics.php:117 src/Views/menu-display.php:100
+#: src/Views/menu-general.php:116 src/Views/menu-general.php:145
+msgid "Disabled"
+msgstr "無効"
+
+#: src/Views/menu-debug-log.php:36
+msgid "Timestamp"
+msgstr "タイムスタンプ"
+
+#: src/Modules/Expirator/Tables/ScheduledActionsTable.php:630
+#: src/Views/menu-debug-log.php:37
+msgid "Message"
+msgstr "メッセージ"
+
+#: services.php:73 src/Modules/Settings/SettingsFacade.php:93
+msgid "g:ia"
+msgstr "g:ia"
+
+#: src/Views/menu-general.php:63
+msgid "Defaults"
+msgstr "初期設定"
+
+#: legacy/classes/Display.class.php:318 legacy/classes/Display.class.php:376
+msgid "Saved Options!"
+msgstr "設定を保存しました。"
+
+#: src/Views/menu-display.php:79
+msgid "Post Footer Display"
+msgstr "記事フッター表示"
+
+#: src/Views/menu-diagnostics.php:114
+msgid "View Debug Logs"
+msgstr "デバッグログを表示"
+
+#: src/Views/menu-debug-log.php:29
+msgid "Debugging table is currently empty."
+msgstr "デバッグテーブルは現在空です。"
+
+#: services.php:69 src/Modules/Settings/SettingsFacade.php:92
+msgid "l F jS, Y"
+msgstr "Y年n月j日 (D)"
+
+#: src/Views/menu-display.php:40
+msgid "Date Format"
+msgstr "日付の書式"
+
+#: src/Views/menu-display.php:58
+msgid "Time Format"
+msgstr "時刻の書式"
+
+#. translators: %s is a code tag that wraps the shortcode attribute dateformat
+#. translators: %s is a code tag that wraps the shortcode attribute timeformat
+#: src/Views/menu-display.php:171 src/Views/menu-display.php:177
+msgid "%s - format set here will override the value set on the settings page"
+msgstr "%s - 引数で設定された書式は、設定ページの値を上書きします。"
